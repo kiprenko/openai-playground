@@ -21,7 +21,7 @@ Really close to the reality. But too many eggs around :D
 ![dall-e-3-generated-image](/dall-e-3-playground-1-output.png)
 
 ### Input 2
-What 
+Let's ask GPT-4 about the picture content.
 ```bash
 curl https://api.openai.com/v1/chat/completions \
   -H "Content-Type: application/json" \
