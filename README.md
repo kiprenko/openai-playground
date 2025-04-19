@@ -6,7 +6,11 @@ This repository is designed for hands-on experimentation with OpenAI API using c
 
 1. **Sign Up**: If you don't have an OpenAI account, create one [here](https://platform.openai.com/signup).
 2. **API Key**: Get your API key from your [OpenAI dashboard](https://platform.openai.com/account/api-keys).
-3. **cURL Commands**: The examples in this repository are written in cURL. Modify them based on your API key and test them directly from your terminal.
+3. **Export the API Key as an environment variable**, DO NOT COMMIT/SHOW IT ANYWHERE
+   ```bash
+   export OPENAI_API_KEY="your_api_key_here"
+   ```
+4. **cURL Commands**: The examples in this repository are written in cURL. Modify them based on your API key and test them directly from your terminal.
 
 ## Example of Calling OpenAI API with cURL:
 
