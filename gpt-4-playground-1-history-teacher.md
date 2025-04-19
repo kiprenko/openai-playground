@@ -2,7 +2,7 @@
 
 ## Conversation
 ### Input 1
-The start of the conversation. We have a little system prompt to provide context and rules. And a user prompt to learn some fancy history from our trendy history teacher.
+The model is chosen arbitrary. The start of the conversation. We have a little system prompt to provide context and rules. And a user prompt to learn some fancy history from our trendy history teacher.
 ```bash
 curl https://api.openai.com/v1/chat/completions \
   -H "Content-Type: application/json" \
