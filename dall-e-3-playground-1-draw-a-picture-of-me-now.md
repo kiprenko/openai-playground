@@ -1,4 +1,4 @@
-# GPT-4 Playground 1: History teacher
+# DALL-E 3 Playground 1: Draw a picture of me now
 
 ## Conversation
 ### Input 1

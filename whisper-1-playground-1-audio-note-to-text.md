@@ -1,4 +1,4 @@
-# GPT-4 Playground 1: History teacher
+# Whisper 1 Playground 1: Transcript my audio note in Ukranian
 
 ## Conversation
 ### Input 1

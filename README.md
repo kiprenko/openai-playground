@@ -36,3 +36,4 @@ curl https://api.openai.com/v1/chat/completions \
 ## Playgrounds
 * [gtp-4-playground-1: history teacher](/gpt-4-playground-1-history-teacher.md)
 * [whisper-1-playground-1-audio-note-to-text](/whisper-1-playground-1-audio-note-to-text.md)
+* [dall-e-3-playground-1-draw-a-picture-of-me-now](/dall-e-3-playground-1-draw-a-picture-of-me-now.md)
