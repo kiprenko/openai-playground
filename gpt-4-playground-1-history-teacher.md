@@ -129,7 +129,7 @@ curl https://api.openai.com/v1/chat/completions \
 }
 ```
 
-### Input 2
+### Input 3
 We continue the previous conversation with a follow up question. But before user asks a new (and final question), system slightly changes the rules for the model.
 ```bash
 curl https://api.openai.com/v1/chat/completions \
@@ -174,7 +174,7 @@ curl https://api.openai.com/v1/chat/completions \
   }'
 ```
 
-### Output 2
+### Output 3
 ```JSON
 {
   "id": "chatcmpl-BOAbMKpufwVFEsltkPKN2aEsMlUMJ",

@@ -1,6 +1,6 @@
 # openai-playground
 
-This repository is designed for hands-on experimentation with OpenAI API using cURL. Here, you'll find simple examples and test cases for different models and endpoints like GPT-3.5, GPT-4, and DALL·E.
+This repository is designed for hands-on experimentation with OpenAI API using cURL. Here, you'll find simple examples and test cases for different models and endpoints.
 
 ## How to Get Started:
 
