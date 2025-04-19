@@ -18,7 +18,7 @@ curl https://api.openai.com/v1/chat/completions \
   }'
 ```
 
-### Output 2
+### Output 1
 ```JSON
 {
   "id": "chatcmpl-BOAI2DwgD8DaulusWKvdvt6Fi665W",
